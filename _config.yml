@@ -1,0 +1,4 @@
+name: SumTime 猫眼看世界
+markdown: redcarpet
+pygments: false
+permalink: /blog/:title
